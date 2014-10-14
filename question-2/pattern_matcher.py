@@ -28,7 +28,7 @@ def search_pattern(text, pattern):
         text -  incoming text
         pattern - matching pattern
     """
-    print('Matching text - %s' % text)
+    print('Searcing text - %s' % text)
     print('Matching pattern - %s' % pattern)
 
     for i in range(0, len(text) - len(pattern) + 1):
