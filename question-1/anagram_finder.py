@@ -87,3 +87,4 @@ if __name__ == '__main__':
         find_anagrams(input_text)
         print('_______________________________________')
         print('\n')
+        print('\n')
