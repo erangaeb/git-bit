@@ -58,7 +58,7 @@ def find_anagrams(text):
 
     # display anagrams
     if anagram_count > 0:
-        print('text - %s' % text)
+        print('input text - %s' % text)
         print('anagram count - %d' % anagram_count)
         print('anagram list - %s' % anagram_list)
     else:
