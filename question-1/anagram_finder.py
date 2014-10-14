@@ -83,8 +83,8 @@ if __name__ == '__main__':
     # find anagrams of input text
     while True:
         print('_______________________________________')
+        print('start....')
         input_text = raw_input('Enter text - ')
         find_anagrams(input_text)
-        print('_______________________________________')
-        print('\n')
+        print('***************************************')
         print('\n')
